@@ -15,7 +15,7 @@ The Calculator App is a simple and user-friendly calculator application that all
 
 To use the Calculator App, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/calculator-app.git`
+1. Clone the repository: `https://github.com/catalinispas1/Calculator.git`
 2. Open the project in your preferred IDE or text editor.
 3. Build and run the application.
 
