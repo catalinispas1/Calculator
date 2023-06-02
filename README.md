@@ -1,5 +1,7 @@
 # Calculator App
 
+https://github.com/catalinispas1/Calculator/assets/129887780/1dd1cec6-1b5e-4a84-b3fb-6bc248e21a05
+
 The Calculator App is a simple and user-friendly calculator application that allows users to perform basic mathematical operations.
 
 ## Features
